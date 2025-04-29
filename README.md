@@ -29,7 +29,6 @@ A continuación, se muestran algunos gráficos generados durante el entrenamient
 ![Evolución del error](images/error_plot.png)  
 ![Precisión](images/accuracy_plot.png)
 
-_(Reemplazar por imágenes reales exportadas desde el notebook)_
 
 ## 🧪 Cómo Ejecutar el Proyecto
 
