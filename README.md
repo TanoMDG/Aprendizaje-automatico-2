@@ -37,3 +37,31 @@ _(Reemplazar por imágenes reales exportadas desde el notebook)_
    ```bash
    git clone https://github.com/TanoMDG/Aprendizaje-automatico-2.git
    cd Aprendizaje-automatico-2
+   
+2. Crea un entorno virtual (opcional pero recomendado):
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # En Windows: venv\Scripts\activate
+
+3. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+
+4. Abre el notebook:
+   ```bash
+   jupyter notebook
+
+## 🧹 Por Hacer
+
+- Modularizar el código en scripts de entrenamiento y visualización.
+
+- Aplicar técnicas de regularización (Dropout, L2).
+
+- Probar con más dígitos o modelos más complejos (CNNs).
+
+## 📌 Autor
+
+- TanoMDG
+- Aprendizaje Automático 2 - 2025
+   
+
