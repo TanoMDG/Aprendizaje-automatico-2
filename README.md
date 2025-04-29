@@ -1,4 +1,4 @@
-# ¡Comentario!: Me falta terminar de agragar archivos y funcionalidad al repo, es una prueba para lograr un ejemplo de repositorio organizado..."
+# ¡Comentario!: Me falta terminar de agregar archivos y funcionalidad al repo, es una prueba para lograr un ejemplo de repositorio organizado... y comenzar a entender como utilizar y aprovechar github"
 
 # TP1 - MLP en PyTorch | Aprendizaje Automático 2
 
