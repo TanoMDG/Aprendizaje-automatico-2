@@ -26,10 +26,23 @@ Este trabajo práctico implementa una red neuronal multicapa (MLP) usando PyTorc
 
 ## 📊 Resultados
 
-A continuación, se muestran algunos gráficos generados durante el entrenamiento:
+A continuación se muestran los gráficos de pérdida y precisión durante el entrenamiento en tres escenarios distintos: underfitting, rendimiento aceptable y overfitting.
 
-![Evolución del error](images/error_plot.png)  
-![Precisión](images/accuracy_plot.png)
+---
+
+### 🔹 Underfitting
+![Underfitting](images/underfiting_loss_accuracy_plot.png)
+
+---
+
+### 🔹 Rendimiento Aceptable
+![Rendimiento Aceptable](images/aceptable_loss_accuracy_plot.png)
+
+---
+
+### 🔹 Overfitting
+![Overfitting](images/overfiting_loss_accuracy_plot.png)
+
 
 
 ## 🧪 Cómo Ejecutar el Proyecto
