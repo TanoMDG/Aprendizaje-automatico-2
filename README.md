@@ -1,3 +1,5 @@
+# ¡Comentario!: Me falta terminar de agragar archivos y funcionalidad al repo, es una prueba para lograr un ejemplo de repositorio organizado..."
+
 # TP1 - MLP en PyTorch | Aprendizaje Automático 2
 
 Este trabajo práctico implementa una red neuronal multicapa (MLP) usando PyTorch para clasificar dígitos del conjunto de datos MNIST. Se exploran distintos escenarios de entrenamiento: **underfitting**, **buen rendimiento** y **overfitting**, ajustando los hiperparámetros del modelo y evaluando los resultados mediante métricas y visualizaciones.
